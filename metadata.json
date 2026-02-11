@@ -1,0 +1,7 @@
+{
+  "name": "Stokify Pro - Stock Management System",
+  "description": "A high-performance stock management and opname system with role-based access, 3D visual elements, and real-time inventory tracking for multiple buildings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
